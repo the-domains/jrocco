@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?><rss xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
+    <channel>
+        <title><![CDATA[jrocco]]></title>
+        <description><![CDATA[jrocco]]></description>
+        <link>http://github.com/dylang/node-rss</link>
+        <generator>The Grid</generator>
+        <lastBuildDate>Tue, 26 Apr 2016 19:07:42 GMT</lastBuildDate>
+        <atom:link href="undefinedrss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[ This is just the beginning ]]></title>
+            <description><![CDATA[<article><h1> This is just the beginning </h1><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/87b23e0d560629067d2449ce884a0c85993ca4c7.jpg"></article>]]></description>
+            <link>undefinedthis-is-just-the-beginning/index.html</link>
+            <guid isPermaLink="false">e66b075e-7158-4438-93ad-4e1c3d137f99</guid>
+            <pubDate>Tue, 26 Apr 2016 19:07:18 GMT</pubDate>
+        </item>
+    </channel>
+</rss>
