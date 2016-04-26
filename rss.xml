@@ -2,14 +2,21 @@
     <channel>
         <title><![CDATA[jrocco]]></title>
         <description><![CDATA[jrocco]]></description>
-        <link>http://github.com/dylang/node-rss</link>
+        <link>https://thegrid.ai/jrocco/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Tue, 26 Apr 2016 19:07:42 GMT</lastBuildDate>
-        <atom:link href="undefinedrss.xml" rel="self" type="application/rss+xml"/>
+        <lastBuildDate>Tue, 26 Apr 2016 19:15:18 GMT</lastBuildDate>
+        <atom:link href="https://thegrid.ai/jrocco/rss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[Pixar]]></title>
+            <description><![CDATA[<article><h1>Pixar</h1><h2>At first, just movies</h2></article>]]></description>
+            <link>https://thegrid.ai/jrocco/pixar/index.html</link>
+            <guid isPermaLink="false">9b1380f9-1612-4d07-b3f5-ddc72db32101</guid>
+            <pubDate>Tue, 26 Apr 2016 19:15:18 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[ This is just the beginning ]]></title>
             <description><![CDATA[<article><h1> This is just the beginning </h1><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/87b23e0d560629067d2449ce884a0c85993ca4c7.jpg"></article>]]></description>
-            <link>undefinedthis-is-just-the-beginning/index.html</link>
+            <link>https://thegrid.ai/jrocco/this-is-just-the-beginning/index.html</link>
             <guid isPermaLink="false">e66b075e-7158-4438-93ad-4e1c3d137f99</guid>
             <pubDate>Tue, 26 Apr 2016 19:07:18 GMT</pubDate>
         </item>
