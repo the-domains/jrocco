@@ -1,7 +1,7 @@
-name: In a small corner of the web
+name: A small corner of the web
 favicon: null
 layout_spectrum: 0.83909
-typography_spectrum: 0.27592
+typography_spectrum: 0.37366
 title: In a small corner of the web
 cta:
   domain: null
@@ -22,8 +22,8 @@ color:
     - '#795f8e'
     - '#c2898c'
     - '#e6e3ec'
-  brandStrength: 0.1875
-  lightness: 0.1875
-  saturation: 0.1875
+  brandStrength: 0.125
+  lightness: 0.25
+  saturation: 0.25
   rhythmicContrast: 0.25
 purpose: []
