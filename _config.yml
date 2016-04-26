@@ -1,7 +1,7 @@
 name: jrocco
 favicon: null
-layout_spectrum: 0.1358815690036863
-typography_spectrum: 0.04783691745251417
+layout_spectrum: 1
+typography_spectrum: 0.33509
 cta:
   domain: null
   bucket: null
@@ -16,13 +16,13 @@ opengraph:
   appId: null
 color:
   brandColors:
-    - '#17BEBB'
-    - '#2E282A'
-    - '#CD5334'
-    - '#EDB88B'
-    - '#FAD8D6'
-  brandStrength: 0.5259406922850758
+    - '#000000'
+    - '#1f3484'
+    - '#795f8e'
+    - '#c2898c'
+    - '#e6e3ec'
+  brandStrength: 0.6875
   lightness: 0.7103004790842533
-  saturation: 0.7929459910374135
+  saturation: 0.5
   rhythmicContrast: 0.8717455896548927
 purpose: []
